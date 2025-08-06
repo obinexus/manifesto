@@ -1,6 +1,9 @@
 # OBINexus Manifesto - The Change Starts Within U - Why Everyone is Definitively Wrong About Design and Technology
 ## Founded by Nnamdi Michael Okpala
 
+![./docs/images//CIVIL_COLLPASE.png](CIVIL_COLLAPSE)
+![./docs/images/obinexus_logo.png](OBINexus_LOGO)
+
 *"The Future has BEGUN, The Future is NOW"*
 
 ### Etymology: OBINexus = Obi (Heart) + Nexus (Connection)
